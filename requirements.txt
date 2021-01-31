@@ -5,3 +5,4 @@ seaborn
 sklearn
 xgboost
 lightgbm
+streamlit
