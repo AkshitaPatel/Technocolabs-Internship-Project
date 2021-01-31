@@ -2,10 +2,6 @@ numpy
 pandas
 matplotlib
 seaborn
-sklearn.model_selection
-sklearn.preprocessing
-sklearn.pipeline
-sklearn.metrics
-sklearn.ensemble
+sklearn
 xgboost
 lightgbm
